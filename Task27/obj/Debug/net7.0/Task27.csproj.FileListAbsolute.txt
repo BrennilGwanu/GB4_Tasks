@@ -1,0 +1,15 @@
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\obj\Debug\net7.0\Task27.csproj.AssemblyReference.cache
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\obj\Debug\net7.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\obj\Debug\net7.0\Task27.AssemblyInfoInputs.cache
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\obj\Debug\net7.0\Task27.AssemblyInfo.cs
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\obj\Debug\net7.0\Task27.csproj.CoreCompileInputs.cache
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\bin\Debug\net7.0\Task27.exe
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\bin\Debug\net7.0\Task27.deps.json
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\bin\Debug\net7.0\Task27.runtimeconfig.json
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\bin\Debug\net7.0\Task27.dll
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\bin\Debug\net7.0\Task27.pdb
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\obj\Debug\net7.0\Task27.dll
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\obj\Debug\net7.0\refint\Task27.dll
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\obj\Debug\net7.0\Task27.pdb
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\obj\Debug\net7.0\Task27.genruntimeconfig.cache
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar4\Task27\obj\Debug\net7.0\ref\Task27.dll
