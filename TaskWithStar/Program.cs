@@ -1,9 +1,13 @@
 ﻿// Напишите функцию, которая принимает одно число - высоту елочки и рисует ее в консоли звездочками. (Пример см. презентацию)
 
-Console.Clear();
-Console.WriteLine("Какой высоты будет ёлочка? Введите цифру: ");
-int height = int.Parse(Console.ReadLine()!);
-Fir(height, ' ', '*');
+void Main()
+{
+    Console.Clear();
+    Console.WriteLine("Какой высоты будет ёлочка? Введите цифру: ");
+    int height = int.Parse(Console.ReadLine()!);
+    Fir(height, ' ', '*');
+}
+
 
 void Fir(int level, char gap, char sim)
 {
@@ -27,3 +31,5 @@ void Fir(int level, char gap, char sim)
         occ += 2;
     }
 }
+
+Main();
